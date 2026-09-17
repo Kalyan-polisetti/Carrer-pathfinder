@@ -1,0 +1,354 @@
+{
+  "courses": [
+    {
+      "skill": "Python",
+      "title": "Python for Everybody",
+      "provider": "University of Michigan / Coursera",
+      "level": "Beginner",
+      "url": "https://www.coursera.org/specializations/python"
+    },
+    {
+      "skill": "SQL",
+      "title": "Databases and SQL for Data Science with Python",
+      "provider": "IBM / Coursera",
+      "level": "Beginner",
+      "url": "https://www.coursera.org/learn/sql-data-science"
+    },
+    {
+      "skill": "Statistics",
+      "title": "Statistics for Data Science with Python",
+      "provider": "IBM / Coursera",
+      "level": "Beginner",
+      "url": "https://www.coursera.org/learn/statistics-for-data-science-python"
+    },
+    {
+      "skill": "Machine Learning",
+      "title": "Machine Learning Specialization",
+      "provider": "DeepLearning.AI / Stanford Online",
+      "level": "Intermediate",
+      "url": "https://www.coursera.org/specializations/machine-learning-introduction"
+    },
+    {
+      "skill": "Deep Learning",
+      "title": "Deep Learning Specialization",
+      "provider": "DeepLearning.AI / Coursera",
+      "level": "Advanced",
+      "url": "https://www.coursera.org/specializations/deep-learning"
+    },
+    {
+      "skill": "NLP",
+      "title": "Natural Language Processing Specialization",
+      "provider": "DeepLearning.AI / Coursera",
+      "level": "Intermediate",
+      "url": "https://www.coursera.org/specializations/natural-language-processing"
+    },
+    {
+      "skill": "Data Visualization",
+      "title": "Data Visualization with Python",
+      "provider": "IBM / Coursera",
+      "level": "Beginner",
+      "url": "https://www.coursera.org/learn/python-for-data-visualization"
+    },
+    {
+      "skill": "Power BI",
+      "title": "Microsoft Power BI Data Analyst Professional Certificate",
+      "provider": "Microsoft / Coursera",
+      "level": "Intermediate",
+      "url": "https://www.coursera.org/professional-certificates/microsoft-power-bi-data-analyst"
+    },
+    {
+      "skill": "DAX",
+      "title": "DAX in Power BI",
+      "provider": "Microsoft Learn",
+      "level": "Intermediate",
+      "url": "https://learn.microsoft.com/en-us/training/powerplatform/power-bi/"
+    },
+    {
+      "skill": "Data Warehousing",
+      "title": "Data Warehousing for Business Intelligence",
+      "provider": "University of Colorado / Coursera",
+      "level": "Intermediate",
+      "url": "https://www.coursera.org/specializations/data-warehousing"
+    },
+    {
+      "skill": "Cloud Computing",
+      "title": "Cloud Computing Foundations",
+      "provider": "Google Cloud / Coursera",
+      "level": "Beginner",
+      "url": "https://www.coursera.org/learn/cloud-computing-foundations"
+    },
+    {
+      "skill": "Cloud",
+      "title": "Cloud Computing Foundations",
+      "provider": "Google Cloud / Coursera",
+      "level": "Beginner",
+      "url": "https://www.coursera.org/learn/cloud-computing-foundations"
+    },
+    {
+      "skill": "AWS",
+      "title": "AWS Cloud Technical Essentials",
+      "provider": "Amazon Web Services / Coursera",
+      "level": "Beginner",
+      "url": "https://www.coursera.org/learn/aws-cloud-technical-essentials"
+    },
+    {
+      "skill": "Azure",
+      "title": "Microsoft Azure Fundamentals",
+      "provider": "Microsoft Learn",
+      "level": "Beginner",
+      "url": "https://learn.microsoft.com/en-us/training/paths/azure-fundamentals-describe-cloud-concepts/"
+    },
+    {
+      "skill": "Google Cloud",
+      "title": "Google Cloud Fundamentals",
+      "provider": "Google Cloud",
+      "level": "Beginner",
+      "url": "https://www.cloudskillsboost.google/paths/36"
+    },
+    {
+      "skill": "Docker",
+      "title": "Introduction to Docker",
+      "provider": "Docker",
+      "level": "Beginner",
+      "url": "https://docs.docker.com/get-started/"
+    },
+    {
+      "skill": "Kubernetes",
+      "title": "Kubernetes Basics",
+      "provider": "Kubernetes",
+      "level": "Intermediate",
+      "url": "https://kubernetes.io/docs/tutorials/kubernetes-basics/"
+    },
+    {
+      "skill": "Linux",
+      "title": "Introduction to Linux",
+      "provider": "Linux Foundation / edX",
+      "level": "Beginner",
+      "url": "https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux"
+    },
+    {
+      "skill": "Git",
+      "title": "Introduction to Git and GitHub",
+      "provider": "Google / Coursera",
+      "level": "Beginner",
+      "url": "https://www.coursera.org/learn/introduction-git-github"
+    },
+    {
+      "skill": "Networking",
+      "title": "The Bits and Bytes of Computer Networking",
+      "provider": "Google / Coursera",
+      "level": "Beginner",
+      "url": "https://www.coursera.org/learn/computer-networking"
+    },
+    {
+      "skill": "Cybersecurity",
+      "title": "Google Cybersecurity Professional Certificate",
+      "provider": "Google / Coursera",
+      "level": "Beginner",
+      "url": "https://www.coursera.org/professional-certificates/google-cybersecurity"
+    },
+    {
+      "skill": "Data Analysis",
+      "title": "Google Data Analytics Professional Certificate",
+      "provider": "Google / Coursera",
+      "level": "Beginner",
+      "url": "https://www.coursera.org/professional-certificates/google-data-analytics"
+    },
+    {
+      "skill": "Data Structures",
+      "title": "Data Structures and Algorithms Specialization",
+      "provider": "University of California San Diego / Coursera",
+      "level": "Intermediate",
+      "url": "https://www.coursera.org/specializations/data-structures-algorithms"
+    },
+    {
+      "skill": "Algorithms",
+      "title": "Algorithms Specialization",
+      "provider": "Stanford Online / Coursera",
+      "level": "Intermediate",
+      "url": "https://www.coursera.org/specializations/algorithms"
+    },
+    {
+      "skill": "React",
+      "title": "Meta Front-End Developer",
+      "provider": "Meta / Coursera",
+      "level": "Intermediate",
+      "url": "https://www.coursera.org/professional-certificates/meta-front-end-developer"
+    },
+    {
+      "skill": "JavaScript",
+      "title": "JavaScript Algorithms and Data Structures",
+      "provider": "freeCodeCamp",
+      "level": "Beginner",
+      "url": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/"
+    },
+    {
+      "skill": "HTML",
+      "title": "Responsive Web Design",
+      "provider": "freeCodeCamp",
+      "level": "Beginner",
+      "url": "https://www.freecodecamp.org/learn/2022/responsive-web-design/"
+    },
+    {
+      "skill": "CSS",
+      "title": "Responsive Web Design",
+      "provider": "freeCodeCamp",
+      "level": "Beginner",
+      "url": "https://www.freecodecamp.org/learn/2022/responsive-web-design/"
+    },
+    {
+      "skill": "TypeScript",
+      "title": "TypeScript Documentation and Handbook",
+      "provider": "TypeScript",
+      "level": "Intermediate",
+      "url": "https://www.typescriptlang.org/docs/"
+    },
+    {
+      "skill": "Node.js",
+      "title": "Introduction to Node.js",
+      "provider": "Node.js",
+      "level": "Beginner",
+      "url": "https://nodejs.org/en/learn/getting-started/introduction-to-nodejs"
+    },
+    {
+      "skill": "FastAPI",
+      "title": "FastAPI Tutorial",
+      "provider": "FastAPI",
+      "level": "Intermediate",
+      "url": "https://fastapi.tiangolo.com/tutorial/"
+    },
+    {
+      "skill": "REST APIs",
+      "title": "API Design and Fundamentals",
+      "provider": "Postman",
+      "level": "Beginner",
+      "url": "https://academy.postman.com/"
+    },
+    {
+      "skill": "PostgreSQL",
+      "title": "PostgreSQL Tutorial",
+      "provider": "PostgreSQL",
+      "level": "Intermediate",
+      "url": "https://www.postgresql.org/docs/current/tutorial.html"
+    },
+    {
+      "skill": "MongoDB",
+      "title": "MongoDB University",
+      "provider": "MongoDB",
+      "level": "Beginner",
+      "url": "https://learn.mongodb.com/"
+    },
+    {
+      "skill": "Terraform",
+      "title": "Terraform Tutorials",
+      "provider": "HashiCorp",
+      "level": "Intermediate",
+      "url": "https://developer.hashicorp.com/terraform/tutorials"
+    },
+    {
+      "skill": "Jenkins",
+      "title": "Jenkins User Documentation",
+      "provider": "Jenkins",
+      "level": "Intermediate",
+      "url": "https://www.jenkins.io/doc/"
+    },
+    {
+      "skill": "CI/CD",
+      "title": "Introduction to CI/CD",
+      "provider": "GitHub",
+      "level": "Beginner",
+      "url": "https://docs.github.com/en/actions/about-github-actions/understanding-github-actions"
+    },
+    {
+      "skill": "Ethical Hacking",
+      "title": "Ethical Hacking Essentials",
+      "provider": "EC-Council",
+      "level": "Intermediate",
+      "url": "https://codered.eccouncil.org/course/ethical-hacking-essentials/"
+    },
+    {
+      "skill": "Cryptography",
+      "title": "Cryptography I",
+      "provider": "Stanford Online / Coursera",
+      "level": "Advanced",
+      "url": "https://www.coursera.org/learn/crypto"
+    },
+    {
+      "skill": "Business Analysis",
+      "title": "Business Analysis Fundamentals",
+      "provider": "Coursera",
+      "level": "Beginner",
+      "url": "https://www.coursera.org/search?query=business%20analysis"
+    },
+    {
+      "skill": "Business Analytics",
+      "title": "Business Analytics Specialization",
+      "provider": "University of Pennsylvania / Coursera",
+      "level": "Intermediate",
+      "url": "https://www.coursera.org/specializations/business-analytics"
+    },
+    {
+      "skill": "System Design",
+      "title": "Grokking the System Design Interview",
+      "provider": "Design Gurus",
+      "level": "Advanced",
+      "url": "https://www.designgurus.io/course/grokking-the-system-design-interview"
+    },
+    {
+      "skill": "PyTorch",
+      "title": "Deep Learning with PyTorch",
+      "provider": "Coursera",
+      "level": "Intermediate",
+      "url": "https://www.coursera.org/search?query=pytorch"
+    },
+    {
+      "skill": "TensorFlow",
+      "title": "TensorFlow Developer Learning Resources",
+      "provider": "TensorFlow",
+      "level": "Intermediate",
+      "url": "https://www.tensorflow.org/learn"
+    },
+    {
+      "skill": "Computer Vision",
+      "title": "Computer Vision",
+      "provider": "Coursera",
+      "level": "Intermediate",
+      "url": "https://www.coursera.org/search?query=computer%20vision"
+    },
+    {
+      "skill": "LLMs",
+      "title": "Generative AI with Large Language Models",
+      "provider": "DeepLearning.AI / Coursera",
+      "level": "Intermediate",
+      "url": "https://www.coursera.org/learn/generative-ai-with-llms"
+    },
+    {
+      "skill": "Generative AI",
+      "title": "Generative AI for Everyone",
+      "provider": "DeepLearning.AI / Coursera",
+      "level": "Beginner",
+      "url": "https://www.coursera.org/learn/generative-ai-for-everyone"
+    },
+    {
+      "skill": "Data Modeling",
+      "title": "Data Modeling in Power BI",
+      "provider": "Microsoft Learn",
+      "level": "Intermediate",
+      "url": "https://learn.microsoft.com/en-us/training/powerplatform/power-bi/"
+    },
+    {
+      "skill": "Research Methodology",
+      "title": "Research Methodology",
+      "provider": "Coursera",
+      "level": "Beginner",
+      "url": "https://www.coursera.org/search?query=research%20methodology"
+    },
+    {
+      "skill": "Mathematics",
+      "title": "Mathematics for Machine Learning",
+      "provider": "Imperial College London / Coursera",
+      "level": "Intermediate",
+      "url": "https://www.coursera.org/specializations/mathematics-machine-learning"
+    }
+  ]
+}

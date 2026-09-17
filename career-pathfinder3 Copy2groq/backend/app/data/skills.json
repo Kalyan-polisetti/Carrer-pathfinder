@@ -1,0 +1,64 @@
+{
+  "skills": [
+    {
+      "name": "Python",
+      "category": "Programming",
+      "description": "Programming language widely used in data science, AI, automation and backend development."
+    },
+    {
+      "name": "SQL",
+      "category": "Database",
+      "description": "Language used to query, manipulate and analyze relational data."
+    },
+    {
+      "name": "Statistics",
+      "category": "Mathematics",
+      "description": "Statistical methods used for data analysis, experimentation and machine learning."
+    },
+    {
+      "name": "Machine Learning",
+      "category": "Artificial Intelligence",
+      "description": "Methods for building systems that learn patterns from data."
+    },
+    {
+      "name": "Pandas",
+      "category": "Data Science",
+      "description": "Python library for data manipulation and analysis."
+    },
+    {
+      "name": "NumPy",
+      "category": "Data Science",
+      "description": "Python library for numerical computing and array-based operations."
+    },
+    {
+      "name": "Data Visualization",
+      "category": "Data Science",
+      "description": "Techniques for communicating insights using charts, dashboards and visual analytics."
+    },
+    {
+      "name": "Power BI",
+      "category": "Business Intelligence",
+      "description": "Microsoft platform for data preparation, modeling, visualization and analytics."
+    },
+    {
+      "name": "Deep Learning",
+      "category": "Artificial Intelligence",
+      "description": "Machine learning techniques based on multi-layer neural networks."
+    },
+    {
+      "name": "NLP",
+      "category": "Artificial Intelligence",
+      "description": "Techniques for processing and understanding human language."
+    },
+    {
+      "name": "Docker",
+      "category": "DevOps",
+      "description": "Platform for packaging applications and their dependencies into containers."
+    },
+    {
+      "name": "Kubernetes",
+      "category": "DevOps",
+      "description": "Platform for deploying and managing containerized applications."
+    }
+  ]
+}

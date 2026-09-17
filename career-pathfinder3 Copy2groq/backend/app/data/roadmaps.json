@@ -1,0 +1,452 @@
+[
+  {
+    "career": "Data Scientist",
+    "phases": [
+      {
+        "phase": 1,
+        "title": "Programming & Data Foundations",
+        "skills": ["Python", "SQL", "NumPy", "Pandas"]
+      },
+      {
+        "phase": 2,
+        "title": "Statistics & Data Analysis",
+        "skills": ["Statistics", "Data Analysis", "Data Visualization"]
+      },
+      {
+        "phase": 3,
+        "title": "Machine Learning",
+        "skills": ["Machine Learning", "Scikit-learn", "Feature Engineering", "Model Evaluation"]
+      },
+      {
+        "phase": 4,
+        "title": "Advanced Data Science",
+        "skills": ["Deep Learning", "NLP", "Time Series"]
+      },
+      {
+        "phase": 5,
+        "title": "Projects & Job Preparation",
+        "skills": ["Projects", "GitHub", "SQL Interview Preparation", "Resume", "Technical Interviews"]
+      }
+    ]
+  },
+  {
+    "career": "Machine Learning Engineer",
+    "phases": [
+      {
+        "phase": 1,
+        "title": "Programming & Data Foundations",
+        "skills": ["Python", "SQL", "NumPy", "Pandas"]
+      },
+      {
+        "phase": 2,
+        "title": "Machine Learning Foundations",
+        "skills": ["Statistics", "Machine Learning", "Scikit-learn", "Data Analysis"]
+      },
+      {
+        "phase": 3,
+        "title": "Deep Learning",
+        "skills": ["Deep Learning", "TensorFlow", "PyTorch", "NLP", "Computer Vision"]
+      },
+      {
+        "phase": 4,
+        "title": "ML Engineering & MLOps",
+        "skills": ["Docker", "APIs", "Model Deployment", "MLOps", "Cloud"]
+      },
+      {
+        "phase": 5,
+        "title": "Projects & Job Preparation",
+        "skills": ["ML Projects", "GitHub", "System Design", "Resume", "Technical Interviews"]
+      }
+    ]
+  },
+  {
+    "career": "AI Engineer",
+    "phases": [
+      {
+        "phase": 1,
+        "title": "Programming & AI Foundations",
+        "skills": ["Python", "SQL", "Statistics", "Machine Learning"]
+      },
+      {
+        "phase": 2,
+        "title": "Deep Learning",
+        "skills": ["Deep Learning", "TensorFlow", "PyTorch"]
+      },
+      {
+        "phase": 3,
+        "title": "AI Specialization",
+        "skills": ["NLP", "Computer Vision", "LLMs", "Generative AI"]
+      },
+      {
+        "phase": 4,
+        "title": "AI Application Development",
+        "skills": ["APIs", "FastAPI", "Docker", "Cloud"]
+      },
+      {
+        "phase": 5,
+        "title": "Projects & Job Preparation",
+        "skills": ["AI Projects", "GitHub", "System Design", "Resume", "Technical Interviews"]
+      }
+    ]
+  },
+  {
+    "career": "Data Analyst",
+    "phases": [
+      {
+        "phase": 1,
+        "title": "Data Foundations",
+        "skills": ["Python", "SQL", "Excel"]
+      },
+      {
+        "phase": 2,
+        "title": "Statistics & Analysis",
+        "skills": ["Statistics", "Data Analysis", "Pandas"]
+      },
+      {
+        "phase": 3,
+        "title": "Data Visualization",
+        "skills": ["Data Visualization", "Power BI", "Tableau"]
+      },
+      {
+        "phase": 4,
+        "title": "Business Analytics",
+        "skills": ["Business Analytics", "Advanced SQL", "Dashboard Development"]
+      },
+      {
+        "phase": 5,
+        "title": "Projects & Job Preparation",
+        "skills": ["Analytics Projects", "Portfolio", "SQL Interview Preparation", "Resume", "Interviews"]
+      }
+    ]
+  },
+  {
+    "career": "BI Developer",
+    "phases": [
+      {
+        "phase": 1,
+        "title": "Data Foundations",
+        "skills": ["SQL", "Excel", "Data Analysis"]
+      },
+      {
+        "phase": 2,
+        "title": "Business Intelligence",
+        "skills": ["Power BI", "Tableau", "Data Visualization"]
+      },
+      {
+        "phase": 3,
+        "title": "Data Modeling",
+        "skills": ["DAX", "Data Warehousing", "Data Modeling"]
+      },
+      {
+        "phase": 4,
+        "title": "Advanced BI",
+        "skills": ["ETL", "Dashboard Development", "Business Analytics"]
+      },
+      {
+        "phase": 5,
+        "title": "Projects & Job Preparation",
+        "skills": ["BI Projects", "Portfolio", "SQL", "Resume", "Technical Interviews"]
+      }
+    ]
+  },
+  {
+    "career": "Backend Web Developer",
+    "phases": [
+      {
+        "phase": 1,
+        "title": "Programming Foundations",
+        "skills": ["Python", "Java", "Programming", "OOP"]
+      },
+      {
+        "phase": 2,
+        "title": "Backend Development",
+        "skills": ["FastAPI", "Node.js", "REST APIs", "APIs"]
+      },
+      {
+        "phase": 3,
+        "title": "Databases",
+        "skills": ["SQL", "PostgreSQL", "MongoDB", "Database Management"]
+      },
+      {
+        "phase": 4,
+        "title": "Deployment & System Design",
+        "skills": ["Docker", "Cloud", "Cloud Deployment", "System Design"]
+      },
+      {
+        "phase": 5,
+        "title": "Projects & Job Preparation",
+        "skills": ["Backend Projects", "Git", "GitHub", "DSA", "Technical Interviews"]
+      }
+    ]
+  },
+  {
+    "career": "Frontend Developer",
+    "phases": [
+      {
+        "phase": 1,
+        "title": "Web Foundations",
+        "skills": ["HTML", "CSS", "JavaScript"]
+      },
+      {
+        "phase": 2,
+        "title": "Modern Frontend Development",
+        "skills": ["React", "TypeScript", "Advanced JavaScript"]
+      },
+      {
+        "phase": 3,
+        "title": "UI Development",
+        "skills": ["Tailwind CSS", "Responsive Design", "UI Development"]
+      },
+      {
+        "phase": 4,
+        "title": "Production Development",
+        "skills": ["Git", "APIs", "Web Performance", "Deployment"]
+      },
+      {
+        "phase": 5,
+        "title": "Projects & Job Preparation",
+        "skills": ["Frontend Projects", "Portfolio", "GitHub", "Resume", "Technical Interviews"]
+      }
+    ]
+  },
+  {
+    "career": "Full Stack Web Developer",
+    "phases": [
+      {
+        "phase": 1,
+        "title": "Web Foundations",
+        "skills": ["HTML", "CSS", "JavaScript", "Programming"]
+      },
+      {
+        "phase": 2,
+        "title": "Frontend Development",
+        "skills": ["React", "TypeScript", "Tailwind CSS"]
+      },
+      {
+        "phase": 3,
+        "title": "Backend Development",
+        "skills": ["Node.js", "Python", "FastAPI", "REST APIs"]
+      },
+      {
+        "phase": 4,
+        "title": "Databases & Deployment",
+        "skills": ["SQL", "PostgreSQL", "MongoDB", "Docker", "Cloud Deployment"]
+      },
+      {
+        "phase": 5,
+        "title": "Projects & Job Preparation",
+        "skills": ["Full Stack Projects", "Git", "GitHub", "DSA", "Resume", "Technical Interviews"]
+      }
+    ]
+  },
+  {
+    "career": "Cloud Engineer",
+    "phases": [
+      {
+        "phase": 1,
+        "title": "Infrastructure Foundations",
+        "skills": ["Linux", "Networking", "Cloud Computing"]
+      },
+      {
+        "phase": 2,
+        "title": "Cloud Platforms",
+        "skills": ["AWS", "Azure", "Google Cloud"]
+      },
+      {
+        "phase": 3,
+        "title": "Containers",
+        "skills": ["Docker", "Kubernetes"]
+      },
+      {
+        "phase": 4,
+        "title": "Cloud Architecture",
+        "skills": ["Cloud Deployment", "Infrastructure", "Security", "Monitoring"]
+      },
+      {
+        "phase": 5,
+        "title": "Projects & Job Preparation",
+        "skills": ["Cloud Projects", "Git", "Portfolio", "Resume", "Technical Interviews"]
+      }
+    ]
+  },
+  {
+    "career": "DevOps Engineer",
+    "phases": [
+      {
+        "phase": 1,
+        "title": "DevOps Foundations",
+        "skills": ["Linux", "Git", "Cloud Computing"]
+      },
+      {
+        "phase": 2,
+        "title": "Containers & Orchestration",
+        "skills": ["Docker", "Kubernetes"]
+      },
+      {
+        "phase": 3,
+        "title": "CI/CD",
+        "skills": ["Jenkins", "CI/CD", "GitHub Actions"]
+      },
+      {
+        "phase": 4,
+        "title": "Infrastructure Automation",
+        "skills": ["Terraform", "AWS", "Cloud Deployment", "Monitoring"]
+      },
+      {
+        "phase": 5,
+        "title": "Projects & Job Preparation",
+        "skills": ["DevOps Projects", "GitHub", "System Design", "Resume", "Technical Interviews"]
+      }
+    ]
+  },
+  {
+    "career": "Cybersecurity Analyst",
+    "phases": [
+      {
+        "phase": 1,
+        "title": "Security Foundations",
+        "skills": ["Networking", "Linux", "Cybersecurity"]
+      },
+      {
+        "phase": 2,
+        "title": "Security Fundamentals",
+        "skills": ["Cryptography", "Network Security", "Operating Systems"]
+      },
+      {
+        "phase": 3,
+        "title": "Threat Detection",
+        "skills": ["SIEM", "Threat Detection", "Security Monitoring"]
+      },
+      {
+        "phase": 4,
+        "title": "Security Testing",
+        "skills": ["Ethical Hacking", "Vulnerability Assessment", "Penetration Testing"]
+      },
+      {
+        "phase": 5,
+        "title": "Projects & Job Preparation",
+        "skills": ["Security Projects", "CTF Practice", "Certifications", "Resume", "Technical Interviews"]
+      }
+    ]
+  },
+  {
+    "career": "Database Administrator",
+    "phases": [
+      {
+        "phase": 1,
+        "title": "Database Foundations",
+        "skills": ["SQL", "Database Management"]
+      },
+      {
+        "phase": 2,
+        "title": "Database Platforms",
+        "skills": ["PostgreSQL", "MySQL", "MongoDB"]
+      },
+      {
+        "phase": 3,
+        "title": "Database Administration",
+        "skills": ["Backup and Recovery", "Database Security", "Performance Tuning"]
+      },
+      {
+        "phase": 4,
+        "title": "Cloud Databases",
+        "skills": ["Cloud Databases", "AWS", "Azure"]
+      },
+      {
+        "phase": 5,
+        "title": "Projects & Job Preparation",
+        "skills": ["Database Projects", "Git", "Portfolio", "Resume", "Technical Interviews"]
+      }
+    ]
+  },
+  {
+    "career": "Software Developer",
+    "phases": [
+      {
+        "phase": 1,
+        "title": "Programming Foundations",
+        "skills": ["Programming", "Python", "Java", "OOP"]
+      },
+      {
+        "phase": 2,
+        "title": "Problem Solving",
+        "skills": ["Data Structures", "Algorithms", "DSA"]
+      },
+      {
+        "phase": 3,
+        "title": "Software Engineering",
+        "skills": ["Software Engineering", "Git", "SQL"]
+      },
+      {
+        "phase": 4,
+        "title": "Advanced Development",
+        "skills": ["System Design", "APIs", "Cloud"]
+      },
+      {
+        "phase": 5,
+        "title": "Projects & Job Preparation",
+        "skills": ["Software Projects", "GitHub", "DSA", "Resume", "Technical Interviews"]
+      }
+    ]
+  },
+  {
+    "career": "AI Researcher",
+    "phases": [
+      {
+        "phase": 1,
+        "title": "Mathematical Foundations",
+        "skills": ["Mathematics", "Statistics", "Python"]
+      },
+      {
+        "phase": 2,
+        "title": "Machine Learning",
+        "skills": ["Machine Learning", "Scikit-learn", "Model Evaluation"]
+      },
+      {
+        "phase": 3,
+        "title": "Deep Learning",
+        "skills": ["Deep Learning", "PyTorch", "TensorFlow"]
+      },
+      {
+        "phase": 4,
+        "title": "AI Research",
+        "skills": ["NLP", "Computer Vision", "Research", "Research Methodology"]
+      },
+      {
+        "phase": 5,
+        "title": "Research & Career Preparation",
+        "skills": ["Research Projects", "Research Papers", "GitHub", "Technical Writing"]
+      }
+    ]
+  },
+  {
+    "career": "Business Analyst",
+    "phases": [
+      {
+        "phase": 1,
+        "title": "Business & Data Foundations",
+        "skills": ["Data Analysis", "Excel", "Problem Solving"]
+      },
+      {
+        "phase": 2,
+        "title": "Analytics",
+        "skills": ["SQL", "Statistics", "Data Visualization"]
+      },
+      {
+        "phase": 3,
+        "title": "Business Intelligence",
+        "skills": ["Power BI", "Tableau", "Business Strategy"]
+      },
+      {
+        "phase": 4,
+        "title": "Business Analysis",
+        "skills": ["Business Analysis", "Requirements Analysis", "Process Analysis"]
+      },
+      {
+        "phase": 5,
+        "title": "Projects & Job Preparation",
+        "skills": ["Business Projects", "Case Studies", "Resume", "Communication", "Interviews"]
+      }
+    ]
+  }
+]

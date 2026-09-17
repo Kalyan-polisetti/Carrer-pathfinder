@@ -1,0 +1,144 @@
+{
+  "certifications": [
+    {
+      "skill": "Power BI",
+      "title": "Microsoft Certified: Power BI Data Analyst Associate",
+      "provider": "Microsoft",
+      "level": "Intermediate",
+      "url": "https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/"
+    },
+    {
+      "skill": "Cloud",
+      "title": "Google Cloud Digital Leader",
+      "provider": "Google Cloud",
+      "level": "Beginner",
+      "url": "https://cloud.google.com/learn/certification/cloud-digital-leader"
+    },
+    {
+      "skill": "Cloud Computing",
+      "title": "Google Cloud Digital Leader",
+      "provider": "Google Cloud",
+      "level": "Beginner",
+      "url": "https://cloud.google.com/learn/certification/cloud-digital-leader"
+    },
+    {
+      "skill": "AWS",
+      "title": "AWS Certified Cloud Practitioner",
+      "provider": "Amazon Web Services",
+      "level": "Beginner",
+      "url": "https://aws.amazon.com/certification/certified-cloud-practitioner/"
+    },
+    {
+      "skill": "Azure",
+      "title": "Microsoft Certified: Azure Fundamentals",
+      "provider": "Microsoft",
+      "level": "Beginner",
+      "url": "https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/"
+    },
+    {
+      "skill": "Google Cloud",
+      "title": "Google Associate Cloud Engineer",
+      "provider": "Google Cloud",
+      "level": "Intermediate",
+      "url": "https://cloud.google.com/learn/certification/cloud-engineer"
+    },
+    {
+      "skill": "Cybersecurity",
+      "title": "CompTIA Security+",
+      "provider": "CompTIA",
+      "level": "Intermediate",
+      "url": "https://www.comptia.org/certifications/security"
+    },
+    {
+      "skill": "Networking",
+      "title": "Cisco Certified Support Technician - Networking",
+      "provider": "Cisco",
+      "level": "Beginner",
+      "url": "https://www.cisco.com/site/us/en/learn/training-certifications/certifications/entry/ccst-networking/index.html"
+    },
+    {
+      "skill": "Machine Learning",
+      "title": "AWS Certified Machine Learning Engineer - Associate",
+      "provider": "Amazon Web Services",
+      "level": "Intermediate",
+      "url": "https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/"
+    },
+    {
+      "skill": "DevOps",
+      "title": "AWS Certified DevOps Engineer - Professional",
+      "provider": "Amazon Web Services",
+      "level": "Advanced",
+      "url": "https://aws.amazon.com/certification/certified-devops-engineer-professional/"
+    },
+    {
+      "skill": "Database",
+      "title": "Microsoft Certified: Azure Database Administrator Associate",
+      "provider": "Microsoft",
+      "level": "Intermediate",
+      "url": "https://learn.microsoft.com/en-us/credentials/certifications/azure-database-administrator-associate/"
+    },
+    {
+      "skill": "PostgreSQL",
+      "title": "EDB PostgreSQL Associate Certification",
+      "provider": "EDB",
+      "level": "Intermediate",
+      "url": "https://www.enterprisedb.com/training/postgresql-associate-certification"
+    },
+    {
+      "skill": "Linux",
+      "title": "Linux Foundation Certified System Administrator",
+      "provider": "Linux Foundation",
+      "level": "Intermediate",
+      "url": "https://training.linuxfoundation.org/certification/certified-system-administrator-cf/"
+    },
+    {
+      "skill": "Kubernetes",
+      "title": "Certified Kubernetes Application Developer",
+      "provider": "Linux Foundation / CNCF",
+      "level": "Advanced",
+      "url": "https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/"
+    },
+    {
+      "skill": "Docker",
+      "title": "Docker Certified Associate",
+      "provider": "Docker",
+      "level": "Intermediate",
+      "url": "https://training.mirantis.com/dca-certification-exam/"
+    },
+    {
+      "skill": "AWS DevOps",
+      "title": "AWS Certified DevOps Engineer - Professional",
+      "provider": "Amazon Web Services",
+      "level": "Advanced",
+      "url": "https://aws.amazon.com/certification/certified-devops-engineer-professional/"
+    },
+    {
+      "skill": "Data Engineering",
+      "title": "Google Cloud Professional Data Engineer",
+      "provider": "Google Cloud",
+      "level": "Advanced",
+      "url": "https://cloud.google.com/learn/certification/data-engineer"
+    },
+    {
+      "skill": "Statistics",
+      "title": "Google Data Analytics Professional Certificate",
+      "provider": "Google",
+      "level": "Beginner",
+      "url": "https://www.coursera.org/professional-certificates/google-data-analytics"
+    },
+    {
+      "skill": "AI",
+      "title": "Microsoft Certified: Azure AI Engineer Associate",
+      "provider": "Microsoft",
+      "level": "Intermediate",
+      "url": "https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/"
+    },
+    {
+      "skill": "Machine Learning",
+      "title": "Google Cloud Professional Machine Learning Engineer",
+      "provider": "Google Cloud",
+      "level": "Advanced",
+      "url": "https://cloud.google.com/learn/certification/machine-learning-engineer"
+    }
+  ]
+}
